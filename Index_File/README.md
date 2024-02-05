@@ -11,20 +11,20 @@ You must delete the files data.db and index.db every time before running the pro
 ## HP File
 ```bash
 make hp
-make run_hp
+./build/hp_main
 make clean
 ```
 
 ## HT File
 ```bash
 make ht
-make run_ht
+./build/ht_main
 make clean
 ```
 
 ## SHT File
 ```bash
 make sht
-make run_sht
+./build/sht_main
 make clean
 ```
