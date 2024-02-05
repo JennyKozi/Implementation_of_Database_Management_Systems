@@ -8,21 +8,21 @@ Create and manage files using heap file or hash table file organization. Hash ta
 
 You must delete the files data.db and index.db every time before running the program again.
 
-# HP File
+## HP File
 ```bash
 make hp
 make run_hp
 make clean
 ```
 
-# HT File
+## HT File
 ```bash
 make ht
 make run_ht
 make clean
 ```
 
-# SHT File
+## SHT File
 ```bash
 make sht
 make run_sht
